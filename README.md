@@ -62,6 +62,11 @@ To run the API, run the following command
 
 This API defines a Flask route that calculates and returns the total number of items sold in the "Marketting" category during the last quarter (Quarter3) of a given year.
 
+## Screenshots
+
+![App Screenshot](https://github.com/sakshi9401/Volopay_Backend_Assignment/blob/main/postman/API_1.png)
+
+
 ## API 2
 #### 1) What is the 2nd most sold item in terms of quantity sold in q4
 #### 2) What is the fourth most sold item in terms of Total price in q2?
