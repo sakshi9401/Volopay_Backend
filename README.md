@@ -86,7 +86,11 @@ http/api/nth_most_total_item
 ### Conclusion
 
 This API is a Flask route that calculates and returns information about the second most sold item in terms of quantity sold in Quarter 4 and the fourth most sold item in terms of total price in Quarter 2
-     
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/sakshi9401/Volopay_Backend_Assignment/blob/main/postman/API_2.png)
 
 
 ## API 3
@@ -106,6 +110,13 @@ http/api/percentage_of_department_wise_sold_items
 
 This API reads data from a CSV file, calculates the percentage of sold items for each department, and returns the result as a JSON response through a Flask route.
 
+
+## Screenshots
+
+![App Screenshot]([https://github.com/sakshi9401/Volopay_Backend_Assignment/blob/main/postman/API_2.png](https://github.com/sakshi9401/Volopay_Backend_Assignment/blob/main/postman/API_3.png))
+
+
+
 ## API 4
 #### How does the monthly sales for any product look like?
 
@@ -122,6 +133,9 @@ http/api/monthly_sales
 ### Conclusion
 This API reads data from a CSV file, extracts and processes the relevant information to calculate monthly sales for a specific product, and returns the results in a structured format.
 
+## Screenshots
+
+![App Screenshot](https://github.com/sakshi9401/Volopay_Backend_Assignment/blob/main/postman/API_4.png)
 
 
 
