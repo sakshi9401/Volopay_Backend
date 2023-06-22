@@ -113,7 +113,7 @@ This API reads data from a CSV file, calculates the percentage of sold items for
 
 ## Screenshots
 
-![App Screenshot]([https://github.com/sakshi9401/Volopay_Backend_Assignment/blob/main/postman/API_2.png](https://github.com/sakshi9401/Volopay_Backend_Assignment/blob/main/postman/API_3.png))
+![App Screenshot](https://github.com/sakshi9401/Volopay_Backend_Assignment/blob/main/postman/API_3.png)
 
 
 
